@@ -8,12 +8,12 @@ const Questions = [
         correct: 0,
     },
     {
-        title: 'Компонент - это ... ',
+        title: 'Component - это ... ',
         variants: ['приложение', 'часть приложения или страницы', 'то, что я не знаю что такое'],
         correct: 1,
     },
     {
-        title: 'Что такое JSX?',
+        title: 'Что такое jsx?',
         variants: [
         'Это простой HTML',
         'Это функция',
