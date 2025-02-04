@@ -12,7 +12,6 @@ const Game = () => {
     //текущий вопрос
     const question = Questions[correct];
 
-    //рассчитываем процент прогресса
     const percent = Math.floor((step / Questions.length) * 100);
 
     const onClickVariant = (index) => {
