@@ -3,7 +3,7 @@ import '../style/style.scss';
 
 const Questions = [
     {
-        title: 'React - это ... ?',
+        title: 'NextJs - это ... ?',
         variants: ['библиотека', 'фреймворк', 'приложение'],
         correct: 0,
     },
