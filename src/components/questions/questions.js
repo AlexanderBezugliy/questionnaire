@@ -7,11 +7,13 @@ const Questions = [
         variants: ['библиотека', 'фреймворк', 'приложение'],
         correct: 0,
     },
+    
     {
         title: 'Component - это ... ',
         variants: ['приложение', 'часть приложения или страницы', 'то, что я не знаю что такое'],
         correct: 1,
     },
+
     {
         title: 'Что такое JSX?',
         variants: [
